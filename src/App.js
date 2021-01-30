@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Mårran learns React!
+          Laxen Kent är den bästa, heja heja heja Laxen!
         </a>
       </header>
     </div>
