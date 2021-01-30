@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Herodes learns React!
+          Mårran learns React!
         </a>
       </header>
     </div>
